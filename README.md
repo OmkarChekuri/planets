@@ -4,6 +4,6 @@ This is the learning repository used in software carpentry workshops to demonstr
 
 ### Items to do
 
-*add information about moons
-*add venus to planet descriptions
-*get bread and milk on the way home
+* add information about moons
+* add venus to planet descriptions
+* get bread and milk on the way home
